@@ -18,7 +18,7 @@ Things you may want to cover:
 * Configuration of application in the local environment
     - Step 1) Clone the repo to your local machine
     - Step 2) Set the username and password in database.yml file of your local mysql connection
-    - Step 3) Goto contact_form directory in your console
+    - Step 3) Goto cin_details directory in your console
     - Step 4) Run the application with following commands in sequence 
         - bundle install
         - rake db:create
