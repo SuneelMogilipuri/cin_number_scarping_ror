@@ -15,7 +15,7 @@
 </div>
 
 <% unless @cin_details.blank? %>
-  <h2>Output</h2> 
+  <h2>Output - <%= @cin_details.cin_number %></h2> 
   <%= render :partial => 'cin_number_details', :locals => { :cin_detail => @cin_details } %>
 <% end %>
 
