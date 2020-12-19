@@ -32,8 +32,8 @@ Things you may want to cover:
         - Either login with the user id: test@example.com password: testing
         - Or Create a new user on the login page after going to the root path
     - Step 2)
-        - Enter Any search String as follows which will display the result of scraped cin number
-            - U74999HR2014PTC053030
+        - Enter Any search String(CIN number) as following example which will display the result of scraped cin number
+            - U74999TS2014PTC053030
     - Step 3)
         - click on history in nav bar to check the search history for the current logged in user
     
