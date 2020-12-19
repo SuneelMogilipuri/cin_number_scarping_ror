@@ -36,4 +36,7 @@ Things you may want to cover:
             - U74999TS2014PTC053030
     - Step 3)
         - click on history in nav bar to check the search history for the current logged in user
+
+Home Page looks as follows
+![Screenshot](home_screenshot.png)
     
