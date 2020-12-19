@@ -24,7 +24,7 @@ Things you may want to cover:
         - rake db:create
         - rake db:migrate
         - rake db:seed
-        - run the application and goto /contact page from url 
+        - run the application and goto root page or /search from url 
 
 
 * Tesing Application
