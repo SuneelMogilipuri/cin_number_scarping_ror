@@ -37,6 +37,9 @@ Things you may want to cover:
     - Step 3)
         - click on history in nav bar to check the search history for the current logged in user
 
-Home Page looks as follows
+Home Page looks as follows once we enter a string and hit the search button
 ![Screenshot](home_screenshot.png)
+
+History page is as follows
+![Screenshot](history_screenshot.png)
     
