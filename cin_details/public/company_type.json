@@ -1,0 +1,13 @@
+{
+"FLC": "Financial Lease Company as Public Limited",
+"FTC": "Subsidiary of a Foreign Company as Private Limited Company",
+"GAP": "General Association Public",
+"GAT": "General Association Private",
+"GOI": "Companies owned by Government of India",
+"NPL": "Not-for-Profit License Company",
+"PLC": "Public Limited Company",
+"PTC": "Private Limited Company",
+"SGC": "Companies owned by State Government",
+"ULL": "Public Limited Company with Unlimited Liability",
+"ULT": "Private Company with Unlimited Liability"
+}

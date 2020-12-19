@@ -1,0 +1,5 @@
+<% current_user.cin_details.each do |cin_detail| %>
+    <h3>CIN Number - <%= cin_detail.cin_number %> </h3>
+    <%= render :partial => 'cin_number_details', :locals => { :cin_detail => cin_detail } %>
+    <br>
+<% end %>
